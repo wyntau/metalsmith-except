@@ -1,6 +1,10 @@
 ## metalsmith-except
 a file's attribute `except` filter for metalsmith
 
+### Install
+
+    npm install metalsmith-except
+
 ### Usage
 ```js
 var metalSmith = require('metalsmith');

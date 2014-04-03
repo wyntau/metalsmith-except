@@ -1,10 +1,10 @@
 {
   "name": "metalsmith-except",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a file's attribute `except` filter for metalsmith",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "./node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -27,6 +27,6 @@
     "mocha": "^1.18.2"
   },
   "dependencies": {
-    "jistype": "0.0.3"
+    "jistype": "0.0.4"
   }
 }
