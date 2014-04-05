@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-except",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a file's attribute `except` filter for metalsmith",
   "main": "index.js",
   "scripts": {

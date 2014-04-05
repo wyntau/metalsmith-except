@@ -11,7 +11,7 @@ describe('metalsmith-except', function(){
             'a.md': {
                 name: 'a.name',
                 title: 'a.title',
-                content: 'a.content'
+                content: false
             }
         };
 
@@ -34,7 +34,7 @@ describe('metalsmith-except', function(){
             'a.md': {
                 name: 'a.name',
                 title: 'a.title',
-                content: 'a.content'
+                content: false
             }
         };
 
