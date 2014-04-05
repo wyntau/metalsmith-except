@@ -1,9 +1,10 @@
 ## metalsmith-except
+[![NPM version](https://badge.fury.io/js/metalsmith-except.png)](http://badge.fury.io/js/metalsmith-except) [![Dependencies Status](https://david-dm.org/Jeremial/metalsmith-except.png)](https://david-dm.org/Jeremial/metalsmith-except)
+
 a file's attribute `except` filter for metalsmith
 
 ### Install
-
-    npm install metalsmith-except
+[![metalsmith-except](https://nodei.co/npm/metalsmith-except.png?compact=true)](https://nodei.co/npm/metalsmith-except)
 
 ### Usage
 ```js
