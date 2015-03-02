@@ -1,5 +1,5 @@
 ## metalsmith-except
-[![NPM version](https://badge.fury.io/js/metalsmith-except.png)](http://badge.fury.io/js/metalsmith-except) [![Dependencies Status](https://david-dm.org/Jeremial/metalsmith-except.png)](https://david-dm.org/Jeremial/metalsmith-except)
+[![NPM version](https://badge.fury.io/js/metalsmith-except.png)](http://badge.fury.io/js/metalsmith-except) [![Dependencies Status](https://david-dm.org/Treri/metalsmith-except.png)](https://david-dm.org/Treri/metalsmith-except)
 
 a file's attribute `except` filter for metalsmith
 
